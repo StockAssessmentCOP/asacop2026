@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "" # "Australian Stock Assessment Community of Practice 2026"
