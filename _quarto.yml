@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "" # "Australian Stock Assessment Community of Practice 2026"
+  page-footer: |
+    Questions? Get in touch at [stockassessmentcop@gmail.com](mailto:stockassessmentcop@gmail.com)
+    <br>
+    Stay in the loop via our [LinkedIn group](https://www.linkedin.com/groups/14536824/). 
+  navbar:
+    background: "#0E2841"
+    foreground: "#FFFFFF"
+    search: true
+    right:
+      - href: index.qmd
+        text: Home
+      - schedule.qmd 
+      - additional.qmd
+      - accessibility.qmd
+      - checklist.qmd
+      - contact.qmd
+format:
+  html:
+    code-fold: true
+    collapsible: true
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+editor: visual

@@ -1,0 +1,48 @@
+---
+title: "Additional information"
+---
+
+## The venue
+The Ecosciences Precinct (41 Boggo Rd, Dutton Park QLD) is a short, 200-meter walk from Boggo Road/Park Road train station. 
+
+```{=html}
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+<iframe 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1351.4674947670935!2d153.02822858103724!3d-27.49474025480422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b915a6f1ccdb977%3A0x73a6d521b0014845!2sEcosciences%20Precinct%20Dutton%20Park!5e0!3m2!1sen!2sau!4v1780034846190!5m2!1sen!2sau" 
+  width="600" 
+  height="450" 
+  style="border:0;" 
+  allowfullscreen="" 
+  loading="lazy" 
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+</div>
+```
+
+All public transport fares in Queensland cost 50 cents. Contactless payment is available on all South East Queensland (SEQ) trains, trams, ferries and buses---you can use your digital or physical bank card to tap on and off. 
+
+The workshop will be held in the conference room on the ground floor, before the security check point. 
+
+On-site parking could be arranged. Get in touch with us for options. 
+
+
+## Food and drink 
+
+#### Lunch
+There is a cafe on-site (Hey Mr Dutton Park) with several excellent food options. If you would like to eat there, please consider pre-ordering your food upon arrival each morning so we don’t overwhelm the staff at lunch time. There are additional cafes within a 10-minute walking radius. 
+
+#### Dinner
+Group dinners will be organised for each night from Monday to Thursday. These dinners are optional and will be pay-your-own-way. We will book restaurants within a 20-minute walking radius from the workshop and confirm numbers each morning. 
+
+If you have any dietary requirements that you would like to be considered when booking dinner locations, please contact us by 1 August. 
+
+#### Morning and afternoon tea
+Tea and coffee will be provided on site. 
+
+
+### Accommodation
+
+There are ample accommodation options, either walking distance or accessible via public transport. 
+
+<!-- ## Travel support  -->
+<!-- TBA -->

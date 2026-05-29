@@ -1,0 +1,13 @@
+---
+title: "Contact"
+---
+
+Consider this website as the point of truth for our workshop logistics.
+
+[Register your interest](https://forms.gle/8p8aXELgcbedA9up8){target="_blank"} in our workshop to make sure you don't miss an update.
+
+Send us an email at [stockassessmentcop\@gmail.com](mailto:stockassessmentcop@gmail.com) with any questions.
+
+Better yet, post them in either our [LinkedIn forum](https://www.linkedin.com/groups/14536824/){target="_blank"} (for Network members) or [GitHub discussion board](https://github.com/StockAssessmentCOP/StockAssessmentCOP){target="_blank"} (for formal members).
+
+![](images/cop-logo.png){fig-alt="The logo consisting of a blue illustration of Australia, with two fish overlaid, sitting above a bar chart, with text saying: Australian Stock Assessment Community of Practice" fig-align="center"}

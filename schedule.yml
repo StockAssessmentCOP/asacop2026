@@ -1,0 +1,447 @@
+Monday:
+  - id: mon_arrival
+    name: "Arrival and sign in"
+    type: general
+    start: "08:30"
+    end: "09:00"
+
+  - id: mon_welcome
+    name: "Welcome and Overview"
+    type: general
+    start: "09:00"
+    end: "09:15"
+    description: |
+      Set the tone, acknowledge online hubs and broader participation
+      <i>Facilitator: Natalie Dowling </i> 
+
+  - id: mon_networking
+    name: "Networking and Icebreakers"
+    type: workshop
+    start: "09:15"
+    end: "10:30"
+    description: |
+      - Bingo card icebreaker  
+      - Expertise mapping exercise
+      <i>Facilitator: TBC </i> 
+
+  - id: mon_morning_tea
+    name: "Morning Tea"
+    type: social
+    start: "10:30"
+    end: "10:45"
+    description: "Assigned coffee conversation partners"
+
+  - id: mon_gallery
+    name: "Cafe-Style Gallery Walk"
+    type: workshop
+    start: "10:45"
+    end: "12:30"
+    description: |
+      - Lightning introductions (2 min each)   
+      - Rotating poster stations
+      - More details below
+      <i>Facilitator: TBC </i> 
+
+  - id: mon_lunch
+    name: "Lunch"
+    type: social
+    start: "12:30"
+    end: "13:30"
+
+  - id: mon_lecture1
+    name: "Australian Stock Assessment Toolbox"
+    type: talk
+    start: "13:30"
+    end: "14:15"
+    description: |
+      - Showcase of Australian Stock Assessment Toolbox software
+      <i>Facilitator: TBC </i> 
+
+  - id: mon_lecture2
+    name: "Landscape of Stock Assessment Approaches"
+    type: talk
+    start: "14:15"
+    end: "15:00"
+    description: |
+      - Framework for understanding different assessment families.  
+      - Links back to morning expertise mapping.
+      <i>Facilitator: TBC </i> 
+
+  - id: mon_afternoon_tea
+    name: "Afternoon Tea"
+    type: social
+    start: "15:00"
+    end: "15:15"
+
+  - id: mon_lecture3
+    name: "What is MSE?"
+    type: talk
+    start: "15:15"
+    end: "16:00"
+    description: |
+      - Beginner-friendly introduction to management strategy evaluation.  
+      - Preparation for later sessions
+      <i>Facilitator: TBC </i> 
+
+  - id: mon_wrap
+    name: "Day 1 Wrap-up"
+    type: general
+    start: "16:00"
+    end: "16:30"
+    description: |
+      - Synthesis of mapping and poster discussions  
+      - Visual summary of discussion threads
+      <i>Facilitator: Natalie Dowling </i> 
+
+  - id: mon_dinner
+    name: "Informal Dinner"
+    type: social
+    start: "17:00"
+    end: "19:00"
+    description: |
+      <i>Location: TBC </i> 
+
+Tuesday:
+  - id: tue_arrival
+    name: "Arrival and settle in"
+    type: general
+    start: "08:30"
+    end: "09:00"
+
+  - id: tue_welcome
+    name: "Welcome and Energiser"
+    type: general
+    start: "09:00"
+    end: "09:30"
+    description: |
+      <i>Facilitator: Natalie Dowling </i> 
+
+  - id: tue_narrative1
+    name: "Curated Narrative Sessions 1"
+    type: talk
+    start: "09:30"
+    end: "10:15"
+    description: |
+      - Topic to be confirmed
+      - 20–25 min presentation + discussion
+      <i>Facilitator: TBC </i> 
+      
+  - id: tue_narrative2
+    name: "Curated Narrative Session 2"
+    type: talk
+    start: "10:15"
+    end: "11:00"
+    description: |
+      - Topic to be confirmed
+      - 20–25 min presentation + discussion
+      <i>Facilitator: TBC </i> 
+
+  - id: tue_morning_tea
+    name: "Morning Tea"
+    type: social
+    start: "11:00"
+    end: "11:15"
+
+  - id: tue_narrative3
+    name: "Curated Narrative Session 3"
+    type: talk
+    start: "11:15"
+    end: "12:00"
+    description: |
+      - Topic to be confirmed
+      - 20–25 min presentation + discussion
+      <i>Facilitator: TBC </i> 
+      
+  - id: tue_narrative4
+    name: "Curated Narrative Session 4"
+    type: talk
+    start: "12:00"
+    end: "12:45"
+    description: |
+      - Topic to be confirmed
+      - 20–25 min presentation + discussion
+      <i>Facilitator: TBC </i> 
+
+  - id: tue_lunch
+    name: "Lunch"
+    type: social
+    start: "12:45"
+    end: "13:45"
+
+  - id: tue_narrative5
+    name: "Curated Narrative Session 5"
+    type: talk
+    start: "13:45"
+    end: "14:30"
+    description: |
+      - Topic to be confirmed
+      - 20–25 min presentation + discussion
+      <i>Facilitator: TBC </i> 
+      
+  - id: tue_narrative6
+    name: "Curated Narrative Session 6"
+    type: talk
+    start: "14:30"
+    end: "15:15"
+    description: |
+      - Topic to be confirmed
+      - 20–25 min presentation + discussion
+      <i>Facilitator: TBC </i> 
+
+  - id: tue_afternoon_tea
+    name: "Afternoon Tea"
+    type: social
+    start: "15:15"
+    end: "15:30"
+
+  - id: tue_collab
+    name: "Collaboration Exercise"
+    type: workshop
+    start: "15:30"
+    end: "16:30"
+    description: |
+      <i>Facilitator: Natalie Dowling </i> 
+
+  - id: tue_wrap
+    name: "Day 2 Wrap-up"
+    type: general
+    start: "16:30"
+    end: "17:00"
+    description: |
+      <i>Facilitator: Natalie Dowling </i> 
+
+  - id: tue_dinner
+    name: "Group Dinner"
+    type: social
+    start: "18:00"
+    end: "19:30"
+    description: |
+      <i>Location: TBC </i> 
+      
+Wednesday:
+  - id: wed_arrival
+    name: "Arrival and settle in"
+    type: general
+    start: "08:30"
+    end: "09:00"
+
+  - id: wed_lectureA
+    name: "Best Assessment Advice vs MSE"
+    type: talk
+    start: "09:00"
+    end: "10:30"
+    description: |
+      <i>Facilitator: Prof Andre Punt </i> 
+
+  - id: wed_coffee
+    name: "Coffee Break"
+    type: social
+    start: "10:30"
+    end: "11:00"
+
+  - id: wed_lectureB
+    name: "Objectives, Metrics and Trade-offs"
+    type: talk
+    start: "11:00"
+    end: "12:30"
+    description: |
+      <i>Facilitator: Prof Andre Punt </i> 
+
+  - id: wed_lunch
+    name: "Lunch"
+    type: social
+    start: "12:30"
+    end: "13:30"
+
+  - id: wed_handson1
+    name: "Hands-on: Installing HCR Shiny"
+    type: workshop
+    start: "13:30"
+    end: "15:00"
+    description: |
+      <i>Facilitator: Prof Andre Punt </i> 
+
+  - id: wed_coffee2
+    name: "Coffee Break"
+    type: social
+    start: "15:00"
+    end: "15:30"
+
+  - id: wed_discussion
+    name: "Discussion: Manager Questions"
+    type: general
+    start: "15:30"
+    end: "16:30"
+    description: |
+      <i>Facilitator: Prof Andre Punt </i> 
+      
+  - id: wed_dinner
+    name: "Group Dinner"
+    type: social
+    start: "18:00"
+    end: "19:30"
+    description: |
+      <i>Location: TBC </i> 
+
+Thursday:
+  - id: thu_arrival
+    name: "Arrival and settle in"
+    type: general
+    start: "08:30"
+    end: "09:00"
+
+  - id: thu_recap
+    name: "Recap and Manager Questions"
+    type: general
+    start: "09:00"
+    end: "09:30"
+    description: |
+      <i>Facilitator: Prof Andre Punt </i> 
+      
+  - id: thu_handson2
+    name: "Hands-on: Potential Biological Removals"
+    type: workshop
+    start: "09:30"
+    end: "10:30"
+    description: |
+      <i>Facilitator: Prof Andre Punt </i> 
+      
+  - id: thu_coffee
+    name: "Coffee Break"
+    type: social
+    start: "10:30"
+    end: "11:00"
+
+  - id: thu_lectureC
+    name: "Overview of Past MSEs"
+    type: talk
+    start: "11:00"
+    end: "12:30"
+    description: |
+      <i>Facilitator: Prof Andre Punt </i> 
+      
+  - id: thu_lunch
+    name: "Lunch"
+    type: social
+    start: "12:30"
+    end: "13:30"
+
+  - id: thu_teams
+    name: "Forming Teams"
+    type: general
+    start: "13:30"
+    end: "13:45"
+    description: |
+      <i>Facilitator: Prof Andre Punt </i> 
+      
+  - id: thu_handson3
+    name: "Group Exercise: Single-stock Case Study"
+    type: workshop
+    start: "13:45"
+    end: "15:00"
+    description: |
+      <i>Facilitator: Prof Andre Punt </i> 
+      
+  - id: thu_coffee2
+    name: "Coffee Break"
+    type: social
+    start: "15:00"
+    end: "15:30"
+
+  - id: thu_handson3b
+    name: "Continue Group Exercise"
+    type: workshop
+    start: "15:30"
+    end: "16:00"
+    description: |
+      <i>Facilitator: Prof Andre Punt </i> 
+      
+  - id: thu_discussion
+    name: "Discussion and Presentations"
+    type: general
+    start: "16:00"
+    end: "16:30"
+    description: |
+      <i>Facilitator: Prof Andre Punt </i> 
+      
+  - id: thu_dinner
+    name: "Group Dinner"
+    type: social
+    start: "18:00"
+    end: "19:30"
+    description: |
+      <i>Location: TBC </i> 
+
+Friday:
+  - id: fri_arrival
+    name: "Arrival and settle in"
+    type: general
+    start: "08:30"
+    end: "09:00"
+
+  - id: fri_recap
+    name: "Recap and Plan for Day"
+    type: general
+    start: "09:00"
+    end: "09:30"
+    description: |
+      <i>Facilitator: Prof Andre Punt </i> 
+      
+  - id: fri_lectureD
+    name: "Review Processes and Stakeholder Engagement"
+    type: talk
+    start: "09:30"
+    end: "10:30"
+    description: |
+      <i>Facilitator: Prof Andre Punt </i> 
+      
+  - id: fri_coffee
+    name: "Coffee Break"
+    type: social
+    start: "10:30"
+    end: "11:00"
+
+  - id: fri_handson4
+    name: "Group Exercise: Multi-area, Multi-stakeholder"
+    type: workshop
+    start: "11:00"
+    end: "12:30"
+    description: |
+      <i>Facilitator: Prof Andre Punt </i> 
+      
+  - id: fri_lunch
+    name: "Lunch"
+    type: social
+    start: "12:30"
+    end: "13:30"
+
+  - id: fri_handson5
+    name: "Continue Group Exercise"
+    type: workshop
+    start: "13:30"
+    end: "15:00"
+    description: |
+      <i>Facilitator: Prof Andre Punt </i> 
+      
+  - id: fri_coffee2
+    name: "Coffee Break"
+    type: social
+    start: "15:00"
+    end: "15:30"
+
+  - id: fri_discussion
+    name: "Final Discussion and Presentations"
+    type: general
+    start: "15:30"
+    end: "16:00"
+    description: |
+      <i>Facilitator: Prof Andre Punt </i> 
+      
+  - id: fri_close
+    name: "Workshop Close"
+    type: general
+    start: "16:00"
+    end: "16:30"
+    description: |
+      <i>Facilitator: Natalie Dowling </i> 
+    
