@@ -4,21 +4,35 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "The agenda and timing may change. Watch this space for developments 👀\nAll listed times are in Australian Eastern Standard (Brisbane) time.\nMake sure you register to access links for online meeting spaces.\n##️ Volunteer to contribute {#volunteer}\nWe are looking for volunteers to help lead parts of the workshop. If you are interested, get in touch!\nOpportunities include:\nCurated narrative sessions will consist of a 20–25 min presentation with ~20 min discussion\nPossible themes:"
+    "text": "Note\n\n\n\n\nThe agenda and timing may change. Watch this space for developments 👀\nAll listed times are in Australian Eastern Standard (Brisbane) time.\nMake sure you register to access links for online meeting spaces."
+  },
+  {
+    "objectID": "schedule.html#volunteer",
+    "href": "schedule.html#volunteer",
+    "title": "Schedule",
+    "section": "Volunteer to contribute",
+    "text": "Volunteer to contribute\nWe are looking for volunteers to help lead parts of the workshop. If you are interested, get in touch!\nOpportunities include:\n\nSession chairs and general facilitators\nDelivering Lecture 3: What is MSE? (~45 min) on Monday\nLeading a Curated Narrative Session on Tuesday\n\nCurated narrative sessions will consist of a 20–25 min presentation with ~20 min discussion\nPossible themes:\n\nNavigating data-limited situations\n→ How you selected and applied an approach\nWorking across jurisdictions on shared stocks\n→ Coordination challenges and solutions\nWhen standard approaches don’t fit\n→ Adapting methods to unusual situations\nBuilding stakeholder trust through assessment\n→ Communication and transparency\nFrom problem to solution: a challenging assessment journey\n→ Lessons learned from a difficult case"
   },
   {
     "objectID": "schedule.html#lightning",
     "href": "schedule.html#lightning",
     "title": "Schedule",
     "section": "Lightning round",
-    "text": "Lightning round\nPrepare a short introduction (~2 minutes):\n\nyour name\n\nyour organisation\n\none current challenge\n\none thing you hope to learn\n\n##️ Poster session {#poster}\nAs a jurisdiction, bring a poster representing your work, team, or context. This is intentionally flexible! Ideas include:\n\na flagship stock assessment\n\na challenging case study\n\nyour team and region (“getting to know us”)\n\na methodological innovation\n\na collaboration success story"
+    "text": "Lightning round\nPrepare a short introduction (~2 minutes):\n\nyour name\n\nyour organisation\n\none current challenge\n\none thing you hope to learn"
+  },
+  {
+    "objectID": "schedule.html#poster",
+    "href": "schedule.html#poster",
+    "title": "Schedule",
+    "section": "Poster session",
+    "text": "Poster session\nAs a jurisdiction, bring a poster representing your work, team, or context. This is intentionally flexible! Ideas include:\n\na flagship stock assessment\n\na challenging case study\n\nyour team and region (“getting to know us”)\n\na methodological innovation\n\na collaboration success story"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Consider this website as the point of truth for our workshop logistics.\nRegister your interest in our workshop to make sure you don’t miss an update.\nSend us an email at stockassessmentcop@gmail.com with any questions.\nBetter yet, post them in either our LinkedIn forum (for Network members) or GitHub discussion board (for formal members)."
+    "text": "Note\n\n\n\nConsider this website as the point of truth for our workshop logistics.\n\n\nSend us an email at stockassessmentcop@gmail.com with any questions.\nBetter yet, post them in either our LinkedIn forum (for Network members) or GitHub discussion board (for formal members).\n\n  \n    Register your interest in our workshop to make sure you don't miss an update."
   },
   {
     "objectID": "additional.html",
@@ -60,14 +74,28 @@
     "href": "checklist.html",
     "title": "Pre-conference checklist",
     "section": "",
-    "text": "Register your intention to attend the workshop\nKeep an eye out for course materials as they are released"
+    "text": "All participants\n\nRegister your intention to attend the workshop\nKeep an eye out for course materials as they are released\n\nOnline participants\n\nConsidering joining or starting an online hub, to attend together\nCheck your internet connection and audio setup\n\nTest your access to the meeting platform\n\nPlan a quiet workspace where possible\n\nIn-person participants\n\nBring your laptop (required for hands-on sessions)\n\nBring a notebook or pen for quick notes\n\nPre-download course materials in case Wi-Fi is limited\n\nConsider pre-ordering lunch from Hey Mr Dutton Park to avoid queues\n\nIf you are attending Days 1–2\n\nPrepare for the lightning round\nWork with your jurisdiction to create a poster\nConsider volunteering to lead parts of the workshop. If you are interested, get in touch!\n\nIf you are attending Days 3–5\n\nInstall required software (details to be provided)\n\nEnsure your laptop is fully updated\n\nConfirm you can install and run R / required tools"
   },
   {
     "objectID": "checklist.html#lightning",
     "href": "checklist.html#lightning",
     "title": "Pre-conference checklist",
     "section": "Lightning round",
-    "text": "Lightning round\nPrepare a short introduction (~2 minutes):\n\nyour name\n\nyour organisation\n\none current challenge\n\none thing you hope to learn\n\n##️ Poster session {#poster}\nAs a jurisdiction, bring a poster representing your work, team, or context. This is intentionally flexible! Ideas include:\n\na flagship stock assessment\n\na challenging case study\n\nyour team and region (“getting to know us”)\n\na methodological innovation\n\na collaboration success story\n\n##️ Volunteer to contribute {#volunteer}\nWe are looking for volunteers to help lead parts of the workshop. If you are interested, get in touch!\nOpportunities include:\n\nSession chairs and general facilitators\nDelivering Lecture 3: What is MSE? (~45 min) on Monday\nLeading a Curated Narrative Session on Tuesday\n\nCurated narrative sessions will consist of a 20–25 min presentation with ~20 min discussion\nPossible themes:\n\nNavigating data-limited situations\n→ How you selected and applied an approach\nWorking across jurisdictions on shared stocks\n→ Coordination challenges and solutions\nWhen standard approaches don’t fit\n→ Adapting methods to unusual situations\nBuilding stakeholder trust through assessment\n→ Communication and transparency\nFrom problem to solution: a challenging assessment journey\n→ Lessons learned from a difficult case"
+    "text": "Lightning round\nPrepare a short introduction (~2 minutes):\n\nyour name\n\nyour organisation\n\none current challenge\n\none thing you hope to learn"
+  },
+  {
+    "objectID": "checklist.html#poster",
+    "href": "checklist.html#poster",
+    "title": "Pre-conference checklist",
+    "section": "Poster session",
+    "text": "Poster session\nAs a jurisdiction, bring a poster representing your work, team, or context. This is intentionally flexible! Ideas include:\n\na flagship stock assessment\n\na challenging case study\n\nyour team and region (“getting to know us”)\n\na methodological innovation\n\na collaboration success story"
+  },
+  {
+    "objectID": "checklist.html#volunteer",
+    "href": "checklist.html#volunteer",
+    "title": "Pre-conference checklist",
+    "section": "Volunteer to contribute",
+    "text": "Volunteer to contribute\nWe are looking for volunteers to help lead parts of the workshop. If you are interested, get in touch!\nOpportunities include:\n\nSession chairs and general facilitators\nDelivering Lecture 3: What is MSE? (~45 min) on Monday\nLeading a Curated Narrative Session on Tuesday\n\nCurated narrative sessions will consist of a 20–25 min presentation with ~20 min discussion\nPossible themes:\n\nNavigating data-limited situations\n→ How you selected and applied an approach\nWorking across jurisdictions on shared stocks\n→ Coordination challenges and solutions\nWhen standard approaches don’t fit\n→ Adapting methods to unusual situations\nBuilding stakeholder trust through assessment\n→ Communication and transparency\nFrom problem to solution: a challenging assessment journey\n→ Lessons learned from a difficult case"
   },
   {
     "objectID": "index.html",
