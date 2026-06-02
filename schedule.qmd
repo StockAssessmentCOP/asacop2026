@@ -190,7 +190,7 @@ Prepare a short introduction (\~2 minutes):
 
 ## Poster session {#poster}
 
-As a jurisdiction, bring a poster representing your work, team, or context. This is intentionally flexible! Ideas include:
+As a jurisdiction, bring a digitalposter representing your work, team, or context. This is intentionally flexible! Ideas include:
 
 -   a flagship stock assessment\
 -   a challenging case study\
