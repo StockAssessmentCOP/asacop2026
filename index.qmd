@@ -28,10 +28,28 @@ Our Community of Practice was officially launched in April 2026, with the missio
     text-align:center;
     font-weight:bold;
   ">
-    Register your interest in the event here!
+    Register your interest in the event here
   </div>
 </a>
 ```
+
+```{=html}
+<br>
+<a href="https://stockassessmentcop.github.io/asacop2026/schedule.html#volunteer" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  <div style="
+    background-color:#A7D9DF;
+    color:#1f4e79;
+    padding:18px;
+    border-radius:10px;
+    font-weight:500;
+    text-align:center;
+    font-weight:bold;
+  ">
+    Find out how to get involved
+  </div>
+</a>
+```
+
 ## Who is this conference for?
 
 This workshop will comprise of two parts:

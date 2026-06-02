@@ -4,9 +4,10 @@ format: html
 ---
 
 ::: {.callout-note}
--   The agenda and timing may change. Watch this space for developments 👀
--   All listed times are in Australian Eastern Standard (Brisbane) time.
--   Make sure you [register](https://forms.gle/8p8aXELgcbedA9up8){target="_blank"} to access links for online meeting spaces.
+- The agenda and timing may change. Watch this space for developments 👀
+- All listed times are in Australian Eastern Standard (Brisbane) time.
+- Make sure you [register](https://forms.gle/8p8aXELgcbedA9up8){target="_blank"} to access links for online meeting spaces.
+- We are working hard to ensure all activities are accessible for both online and in person attendees. 
 :::
 
 ```{=html}
@@ -151,7 +152,7 @@ render_day("Friday")
 
 ## Volunteer to contribute {#volunteer}
 
-We are looking for volunteers to help lead parts of the workshop. If you are interested, get in touch!
+We are looking for volunteers to help lead parts of the workshop. If you are interested, please [get in touch](mailto:stockassessmentcop@gmail.com)!
 
 **Opportunities include:**
 

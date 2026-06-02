@@ -23,13 +23,13 @@ Monday:
       - Bingo card icebreaker  
       - Expertise mapping exercise
       <i>Facilitator: TBC </i> 
+      <i>Online variation: Break out rooms</i>
 
   - id: mon_morning_tea
     name: "Morning Tea"
     type: social
     start: "10:30"
     end: "10:45"
-    description: "Assigned coffee conversation partners"
 
   - id: mon_gallery
     name: "Cafe-Style Gallery Walk"
@@ -41,6 +41,7 @@ Monday:
       - Rotating poster stations
       - More details below
       <i>Facilitator: TBC </i> 
+      <i>Online variation: TBC</i>
 
   - id: mon_lunch
     name: "Lunch"
@@ -55,7 +56,7 @@ Monday:
     end: "14:15"
     description: |
       - Showcase of Australian Stock Assessment Toolbox software
-      <i>Facilitator: TBC </i> 
+      <i>Facilitators: Cathy Dichmont and Natalie Dowling </i> 
 
   - id: mon_lecture2
     name: "Landscape of Stock Assessment Approaches"
@@ -92,6 +93,7 @@ Monday:
       - Synthesis of mapping and poster discussions  
       - Visual summary of discussion threads
       <i>Facilitator: Natalie Dowling </i> 
+      <i>Online variation: TBC</i>
 
   - id: mon_dinner
     name: "Informal Dinner"
@@ -115,6 +117,7 @@ Tuesday:
     end: "09:30"
     description: |
       <i>Facilitator: Natalie Dowling </i> 
+      <i>Online variation: TBC</i>
 
   - id: tue_narrative1
     name: "Curated Narrative Sessions 1"
@@ -201,6 +204,7 @@ Tuesday:
     end: "16:30"
     description: |
       <i>Facilitator: Natalie Dowling </i> 
+      <i>Online variation: TBC</i>
 
   - id: tue_wrap
     name: "Day 2 Wrap-up"
