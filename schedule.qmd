@@ -3,28 +3,13 @@ title: "Schedule"
 format: html
 ---
 
+::: {.callout-note}
+-   The agenda and timing may change. Watch this space for developments 👀
+-   All listed times are in Australian Eastern Standard (Brisbane) time.
+-   Make sure you [register](https://forms.gle/8p8aXELgcbedA9up8){target="_blank"} to access links for online meeting spaces.
+:::
+
 ```{=html}
-  <div style="
-    background-color:#1f4e79;
-    color:white;
-    padding:18px;
-    border-radius:10px;
-    font-weight:500;
-    text-align:center;
-    font-weight:bold;
-  ">
-    The agenda and timing may change. Watch this space for developments 👀
-  </div>
-```
-
----
-
-All listed times are in Australian Eastern Standard (Brisbane) time. 
-
-Make sure you [register](https://forms.gle/8p8aXELgcbedA9up8){target="_blank"} to access links for online meeting spaces. 
-
----
-
 <style>
 .event-card {
   padding: 10px;
@@ -57,8 +42,7 @@ Make sure you [register](https://forms.gle/8p8aXELgcbedA9up8){target="_blank"} t
   line-height: 1.4;
 }
 </style>
-
-
+```
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 library(htmltools)
 library(yaml)
@@ -108,8 +92,6 @@ render_day <- function(day) {
 }
 ```
 
-
-
 ```{=html}
 <div style="display:flex; gap:20px; margin-bottom:15px; flex-wrap:wrap;">
 
@@ -135,82 +117,82 @@ render_day <- function(day) {
 
 </div>
 ```
-
-::: {.panel-tabset}
-
+::: panel-tabset
 ### Monday 10 Aug
+
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 render_day("Monday")
 ```
 
 ### Tuesday 11 Aug
+
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 render_day("Tuesday")
 ```
 
 ### Wednesday 12 Aug
+
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 render_day("Wednesday")
 ```
 
 ### Thursday 13 Aug
+
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 render_day("Thursday")
 ```
 
 ### Friday 14 Aug
+
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 render_day("Friday")
 ```
-
 :::
 
-
-#### 🙋‍♀️ Volunteer to contribute {#volunteer}
+## Volunteer to contribute {#volunteer}
 
 We are looking for volunteers to help lead parts of the workshop. If you are interested, get in touch!
 
 **Opportunities include:**
 
-- Session chairs and general facilitators 
-- Delivering *Lecture 3: What is MSE?* (~45 min) on Monday
-- Leading a *Curated Narrative Session* on Tuesday
+-   Session chairs and general facilitators
+-   Delivering *Lecture 3: What is MSE?* (\~45 min) on Monday
+-   Leading a *Curated Narrative Session* on Tuesday
 
-Curated narrative sessions will consist of a 20–25 min presentation with ~20 min discussion  
+Curated narrative sessions will consist of a 20–25 min presentation with \~20 min discussion
 
 Possible themes:
 
-- **Navigating data-limited situations**  
-  → How you selected and applied an approach  
+-   **Navigating data-limited situations**\
+    → How you selected and applied an approach
 
-- **Working across jurisdictions on shared stocks**  
-  → Coordination challenges and solutions  
+-   **Working across jurisdictions on shared stocks**\
+    → Coordination challenges and solutions
 
-- **When standard approaches don’t fit**  
-  → Adapting methods to unusual situations  
+-   **When standard approaches don’t fit**\
+    → Adapting methods to unusual situations
 
-- **Building stakeholder trust through assessment**  
-  → Communication and transparency  
+-   **Building stakeholder trust through assessment**\
+    → Communication and transparency
 
-- **From problem to solution: a challenging assessment journey**  
-  → Lessons learned from a difficult case  
+-   **From problem to solution: a challenging assessment journey**\
+    → Lessons learned from a difficult case
 
+## Lightning round {#lightning}
 
-#### 🎤 Lightning round {#lightning}
+Prepare a short introduction (\~2 minutes):
 
-Prepare a short introduction (~2 minutes):
+-   your name\
+-   your organisation\
+-   one current challenge\
+-   one thing you hope to learn
 
-- your name  
-- your organisation  
-- one current challenge  
-- one thing you hope to learn  
-
-#### 🖼️ Poster session {#poster}
+## Poster session {#poster}
 
 As a jurisdiction, bring a poster representing your work, team, or context. This is intentionally flexible! Ideas include:
 
-- a flagship stock assessment  
-- a challenging case study  
-- your team and region ("getting to know us")  
-- a methodological innovation  
-- a collaboration success story  
+-   a flagship stock assessment\
+-   a challenging case study\
+-   your team and region ("getting to know us")\
+-   a methodological innovation\
+-   a collaboration success story

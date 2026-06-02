@@ -3,7 +3,8 @@ title: "Additional information"
 ---
 
 ## The venue
-The Ecosciences Precinct (41 Boggo Rd, Dutton Park QLD) is a short, 200-meter walk from Boggo Road/Park Road train station. 
+
+The Ecosciences Precinct (41 Boggo Rd, Dutton Park QLD) is a short, 200-meter walk from Boggo Road/Park Road train station.
 
 ```{=html}
 <div style="display: flex; justify-content: center; margin: 20px 0;">
@@ -18,31 +19,32 @@ The Ecosciences Precinct (41 Boggo Rd, Dutton Park QLD) is a short, 200-meter wa
 </iframe>
 </div>
 ```
+All public transport fares in Queensland cost 50 cents. Contactless payment is available on all South East Queensland (SEQ) trains, trams, ferries and buses---you can use your digital or physical bank card to tap on and off.
 
-All public transport fares in Queensland cost 50 cents. Contactless payment is available on all South East Queensland (SEQ) trains, trams, ferries and buses---you can use your digital or physical bank card to tap on and off. 
+The workshop will be held in the conference room on the ground floor, before the security check point.
 
-The workshop will be held in the conference room on the ground floor, before the security check point. 
+On-site parking could be arranged. Get in touch with us for options.
 
-On-site parking could be arranged. Get in touch with us for options. 
-
-
-## Food and drink 
+## Food and drink
 
 #### Lunch
-There is a cafe on-site (Hey Mr Dutton Park) with several excellent food options. If you would like to eat there, please consider pre-ordering your food upon arrival each morning so we don’t overwhelm the staff at lunch time. There are additional cafes within a 10-minute walking radius. 
+
+There is a cafe on-site (Hey Mr Dutton Park) with several excellent food options. If you would like to eat there, please consider pre-ordering your food upon arrival each morning so we don’t overwhelm the staff at lunch time. There are additional cafes within a 10-minute walking radius.
 
 #### Dinner
-Group dinners will be organised for each night from Monday to Thursday. These dinners are optional and will be pay-your-own-way. We will book restaurants within a 20-minute walking radius from the workshop and confirm numbers each morning. 
 
-If you have any dietary requirements that you would like to be considered when booking dinner locations, please contact us by 1 August. 
+Group dinners will be organised for each night from Monday to Thursday. These dinners are optional and will be pay-your-own-way. We will book restaurants within a 20-minute walking radius from the workshop and confirm numbers each morning.
+
+If you have any dietary requirements that you would like to be considered when booking dinner locations, please contact us by 1 August.
 
 #### Morning and afternoon tea
-Tea and coffee will be provided on site. 
 
+Tea and coffee will be provided on site.
 
-### Accommodation
+## Accommodation
 
-There are ample accommodation options, either walking distance or accessible via public transport. 
+There are ample accommodation options, either walking distance or accessible via public transport.
 
 <!-- ## Travel support  -->
+
 <!-- TBA -->

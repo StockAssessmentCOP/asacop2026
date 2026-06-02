@@ -17,7 +17,6 @@ Our Community of Practice was officially launched in April 2026, with the missio
 -   **Location**: Ecosciences Precinct (Conference Room, Ground Floor), 41 Boggo Rd, Dutton Park QLD—or online
 -   **Cost**: Free. Travel and meals are at the expense of attendees.
 
-
 ```{=html}
 <a href="https://forms.gle/8p8aXELgcbedA9up8" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
   <div style="
@@ -33,8 +32,6 @@ Our Community of Practice was officially launched in April 2026, with the missio
   </div>
 </a>
 ```
-
-
 ## Who is this conference for?
 
 This workshop will comprise of two parts:
@@ -46,8 +43,8 @@ If you are unsure which part is best for you, [get in touch](mailto:stockassessm
 
 There is limited capacity in the room so we will prioritise stock assessment science practitioners for in person attendance.
 
-All 5 days of the workshop will be delivered in a hybrid format (both online and in person). 
+All 5 days of the workshop will be delivered in a hybrid format (both online and in person).
 
----
+------------------------------------------------------------------------
 
 ![](images/cop-logo.png){fig-alt="The logo consisting of a blue illustration of Australia, with two fish overlaid, sitting above a bar chart, with text saying: Australian Stock Assessment Community of Practice" fig-align="center"}

@@ -3,88 +3,83 @@ title: "Pre-conference checklist"
 toc: false
 ---
 
-### All participants
+::: {.callout-note appearance="simple" icon=false}
+**All participants**
 
-- [ ] [Register](https://forms.gle/8p8aXELgcbedA9up8){target="_blank"} your intention to attend the workshop 
-- [ ] Keep an eye out for course materials as they are released
+-   [ ] [Register](https://forms.gle/8p8aXELgcbedA9up8){target="_blank"} your intention to attend the workshop
+-   [ ] Keep an eye out for course materials as they are released
 
-### Online participants
+**Online participants**
 
-- [ ] Considering joining or starting an online hub, to attend together
-- [ ] Check your internet connection and audio setup  
-- [ ] Test your access to the meeting platform  
-- [ ] Plan a quiet workspace where possible  
+-   [ ] Considering joining or starting an online hub, to attend together
+-   [ ] Check your internet connection and audio setup\
+-   [ ] Test your access to the meeting platform\
+-   [ ] Plan a quiet workspace where possible
 
-### In-person participants
+**In-person participants**
 
-- [ ] Bring your laptop (required for hands-on sessions)  
-- [ ] Bring a notebook or pen for quick notes  
-- [ ] Pre-download course materials in case Wi-Fi is limited  
-- [ ] Consider pre-ordering lunch from *Hey Mr Dutton Park* to avoid queues  
+-   [ ] Bring your laptop (required for hands-on sessions)\
+-   [ ] Bring a notebook or pen for quick notes\
+-   [ ] Pre-download course materials in case Wi-Fi is limited\
+-   [ ] Consider pre-ordering lunch from *Hey Mr Dutton Park* to avoid queues
 
-### If you are attending Days 1–2 
+**If you are attending Days 1–2**
 
-- [ ] Prepare for the [lightning round](#lightning)
-- [ ] Work with your jurisdiction to create a [poster](#poster)
-- [ ] Consider volunteering to [lead parts of the workshop](#volunteer). If you are interested, get in touch!
+-   [ ] Prepare for the [lightning round](#lightning)
+-   [ ] Work with your jurisdiction to create a [poster](#poster)
+-   [ ] Consider volunteering to [lead parts of the workshop](#volunteer). If you are interested, get in touch!
 
-### If you are attending Days 3–5
+**If you are attending Days 3–5**
 
-- [ ] Install required software *(details to be provided)*  
-- [ ] Ensure your laptop is fully updated  
-- [ ] Confirm you can install and run R / required tools  
+-   [ ] Install required software *(details to be provided)*\
+-   [ ] Ensure your laptop is fully updated\
+-   [ ] Confirm you can install and run R / required tools
+:::
 
----
+## Lightning round {#lightning}
 
-#### 🎤 Lightning round {#lightning}
+Prepare a short introduction (\~2 minutes):
 
-Prepare a short introduction (~2 minutes):
+-   your name\
+-   your organisation\
+-   one current challenge\
+-   one thing you hope to learn
 
-- your name  
-- your organisation  
-- one current challenge  
-- one thing you hope to learn  
-
-#### 🖼️ Poster session {#poster}
+## Poster session {#poster}
 
 As a jurisdiction, bring a poster representing your work, team, or context. This is intentionally flexible! Ideas include:
 
-- a flagship stock assessment  
-- a challenging case study  
-- your team and region ("getting to know us")  
-- a methodological innovation  
-- a collaboration success story  
-
-
-
-#### 🙋‍♀️ Volunteer to contribute {#volunteer}
+-   a flagship stock assessment\
+-   a challenging case study\
+-   your team and region ("getting to know us")\
+-   a methodological innovation\
+-   a collaboration success story
+## Volunteer to contribute {#volunteer}
 
 We are looking for volunteers to help lead parts of the workshop. If you are interested, get in touch!
 
 **Opportunities include:**
 
-- Session chairs and general facilitators 
-- Delivering *Lecture 3: What is MSE?* (~45 min) on Monday
-- Leading a *Curated Narrative Session* on Tuesday
+-   Session chairs and general facilitators
+-   Delivering *Lecture 3: What is MSE?* (\~45 min) on Monday
+-   Leading a *Curated Narrative Session* on Tuesday
 
-Curated narrative sessions will consist of a 20–25 min presentation with ~20 min discussion  
+Curated narrative sessions will consist of a 20–25 min presentation with \~20 min discussion
 
 Possible themes:
 
-- **Navigating data-limited situations**  
-  → How you selected and applied an approach  
+-   **Navigating data-limited situations**\
+    → How you selected and applied an approach
 
-- **Working across jurisdictions on shared stocks**  
-  → Coordination challenges and solutions  
+-   **Working across jurisdictions on shared stocks**\
+    → Coordination challenges and solutions
 
-- **When standard approaches don’t fit**  
-  → Adapting methods to unusual situations  
+-   **When standard approaches don’t fit**\
+    → Adapting methods to unusual situations
 
-- **Building stakeholder trust through assessment**  
-  → Communication and transparency  
+-   **Building stakeholder trust through assessment**\
+    → Communication and transparency
 
-- **From problem to solution: a challenging assessment journey**  
-  → Lessons learned from a difficult case  
-
----
+-   **From problem to solution: a challenging assessment journey**\
+    → Lessons learned from a difficult case
 
