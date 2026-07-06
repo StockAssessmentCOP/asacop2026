@@ -66,7 +66,7 @@ Monday:
     description: |
       - Framework for understanding different assessment families.  
       - Links back to morning expertise mapping.
-      <i>Facilitator: TBC </i> 
+      <i>Facilitator: Jason Cope (online) </i> 
 
   - id: mon_afternoon_tea
     name: "Afternoon Tea"
@@ -82,7 +82,7 @@ Monday:
     description: |
       - Beginner-friendly introduction to management strategy evaluation.  
       - Preparation for later sessions
-      <i>Facilitator: TBC </i> 
+      <i>Facilitator: Montana Wickens </i> 
 
   - id: mon_wrap
     name: "Day 1 Wrap-up"
@@ -120,24 +120,24 @@ Tuesday:
       <i>Online variation: TBC</i>
 
   - id: tue_narrative1
-    name: "Curated Narrative Sessions 1"
+    name: "Building stakeholder trust through assessment"
     type: talk
     start: "09:30"
     end: "10:15"
     description: |
-      - Topic to be confirmed
+      - Strategies for communication and transparency
       - 20–25 min presentation + discussion
-      <i>Facilitator: TBC </i> 
+      <i>Facilitator: Eva Plaganyi-Lloyd </i> 
       
   - id: tue_narrative2
-    name: "Curated Narrative Session 2"
+    name: "When standard approaches don’t fit"
     type: talk
     start: "10:15"
     end: "11:00"
     description: |
-      - Topic to be confirmed
+      - A geospatial approach to assessing the Victorian freshwater eel fishery 
       - 20–25 min presentation + discussion
-      <i>Facilitator: TBC </i> 
+      <i>Facilitator: Justin Bell (online) </i> 
 
   - id: tue_morning_tea
     name: "Morning Tea"
@@ -153,17 +153,16 @@ Tuesday:
     description: |
       - Topic to be confirmed
       - 20–25 min presentation + discussion
-      <i>Facilitator: TBC </i> 
+      <i>Facilitator: Katie Cresswell </i> 
       
   - id: tue_narrative4
-    name: "Curated Narrative Session 4"
+    name: "Navigation and decision making in data-limited situations"
     type: talk
     start: "12:00"
     end: "12:45"
     description: |
-      - Topic to be confirmed
       - 20–25 min presentation + discussion
-      <i>Facilitator: TBC </i> 
+      <i>Facilitators: Brett Crisafulli and Alex Hesp </i> 
 
   - id: tue_lunch
     name: "Lunch"
@@ -172,24 +171,23 @@ Tuesday:
     end: "13:45"
 
   - id: tue_narrative5
-    name: "Curated Narrative Session 5"
+    name: "From problem to solution: a challenging assessment journey"
     type: talk
     start: "13:45"
     end: "14:30"
     description: |
-      - Topic to be confirmed
+      - The South Australian algal bloom
       - 20–25 min presentation + discussion
-      <i>Facilitator: TBC </i> 
+      <i>Facilitators: Camille Mellin, Sushmita Mukherji, Kevin Mark </i> 
       
   - id: tue_narrative6
-    name: "Curated Narrative Session 6"
+    name: "Natural mortality (M) best practices"
     type: talk
     start: "14:30"
     end: "15:15"
     description: |
-      - Topic to be confirmed
       - 20–25 min presentation + discussion
-      <i>Facilitator: TBC </i> 
+      <i>Facilitator: Kristin Privitera-Johnson </i> 
 
   - id: tue_afternoon_tea
     name: "Afternoon Tea"
