@@ -120,7 +120,7 @@ Tuesday:
       <i>Online variation: TBC</i>
 
   - id: tue_narrative1
-    name: "Building stakeholder trust through assessment"
+    name: "Curated Narrative Session 1: Building stakeholder trust through assessment"
     type: talk
     start: "09:30"
     end: "10:15"
@@ -130,7 +130,7 @@ Tuesday:
       <i>Facilitator: Eva Plaganyi-Lloyd </i> 
       
   - id: tue_narrative2
-    name: "When standard approaches don’t fit"
+    name: "Curated Narrative Session 2: When standard approaches don’t fit"
     type: talk
     start: "10:15"
     end: "11:00"
@@ -156,7 +156,7 @@ Tuesday:
       <i>Facilitator: Katie Cresswell </i> 
       
   - id: tue_narrative4
-    name: "Navigation and decision making in data-limited situations"
+    name: "Curated Narrative Session 4: Navigation and decision making in data-limited situations"
     type: talk
     start: "12:00"
     end: "12:45"
@@ -171,7 +171,7 @@ Tuesday:
     end: "13:45"
 
   - id: tue_narrative5
-    name: "From problem to solution: a challenging assessment journey"
+    name: "Curated Narrative Session 5: From problem to solution: a challenging assessment journey"
     type: talk
     start: "13:45"
     end: "14:30"
@@ -181,7 +181,7 @@ Tuesday:
       <i>Facilitators: Camille Mellin, Sushmita Mukherji, Kevin Mark </i> 
       
   - id: tue_narrative6
-    name: "Natural mortality (M) best practices"
+    name: "Curated Narrative Session 6: Natural mortality (M) best practices"
     type: talk
     start: "14:30"
     end: "15:15"
@@ -228,7 +228,7 @@ Wednesday:
     end: "09:00"
 
   - id: wed_lectureA
-    name: "Best Assessment Advice vs MSE"
+    name: "MSE with Managers: Best Assessment Advice vs MSE"
     type: talk
     start: "09:00"
     end: "10:30"
@@ -242,7 +242,7 @@ Wednesday:
     end: "11:00"
 
   - id: wed_lectureB
-    name: "Objectives, Metrics and Trade-offs"
+    name: "MSE with Managers: Objectives, Metrics and Trade-offs"
     type: talk
     start: "11:00"
     end: "12:30"
@@ -256,7 +256,7 @@ Wednesday:
     end: "13:30"
 
   - id: wed_handson1
-    name: "Hands-on: Installing HCR Shiny"
+    name: "MSE with Managers: (Hands-on) Installing HCR Shiny"
     type: workshop
     start: "13:30"
     end: "15:00"
@@ -270,7 +270,7 @@ Wednesday:
     end: "15:30"
 
   - id: wed_discussion
-    name: "Discussion: Manager Questions"
+    name: "MSE with Managers: (Discussion) Manager Questions"
     type: general
     start: "15:30"
     end: "16:30"
@@ -293,7 +293,7 @@ Thursday:
     end: "09:00"
 
   - id: thu_recap
-    name: "Recap and Manager Questions"
+    name: "MSE with Managers: Recap and Manager Questions"
     type: general
     start: "09:00"
     end: "09:30"
@@ -301,7 +301,7 @@ Thursday:
       <i>Facilitator: Prof Andre Punt </i> 
       
   - id: thu_handson2
-    name: "Hands-on: Potential Biological Removals"
+    name: "MSE with Managers: (Hands-on) Potential Biological Removals"
     type: workshop
     start: "09:30"
     end: "10:30"
@@ -315,7 +315,7 @@ Thursday:
     end: "11:00"
 
   - id: thu_lectureC
-    name: "Overview of Past MSEs"
+    name: "MSE with Managers: Overview of Past MSEs"
     type: talk
     start: "11:00"
     end: "12:30"
@@ -329,7 +329,7 @@ Thursday:
     end: "13:30"
 
   - id: thu_teams
-    name: "Forming Teams"
+    name: "MSE with Managers: Forming Teams"
     type: general
     start: "13:30"
     end: "13:45"
@@ -337,7 +337,7 @@ Thursday:
       <i>Facilitator: Prof Andre Punt </i> 
       
   - id: thu_handson3
-    name: "Group Exercise: Single-stock Case Study"
+    name: "MSE with Managers: (Group Exercise) Single-stock Case Study"
     type: workshop
     start: "13:45"
     end: "15:00"
@@ -351,7 +351,7 @@ Thursday:
     end: "15:30"
 
   - id: thu_handson3b
-    name: "Continue Group Exercise"
+    name: "MSE with Managers: Continue Group Exercise"
     type: workshop
     start: "15:30"
     end: "16:00"
@@ -359,7 +359,7 @@ Thursday:
       <i>Facilitator: Prof Andre Punt </i> 
       
   - id: thu_discussion
-    name: "Discussion and Presentations"
+    name: "MSE with Managers: Discussion and Presentations"
     type: general
     start: "16:00"
     end: "16:30"
@@ -382,7 +382,7 @@ Friday:
     end: "09:00"
 
   - id: fri_recap
-    name: "Recap and Plan for Day"
+    name: "MSE with Managers: Recap and Plan for Day"
     type: general
     start: "09:00"
     end: "09:30"
@@ -390,7 +390,7 @@ Friday:
       <i>Facilitator: Prof Andre Punt </i> 
       
   - id: fri_lectureD
-    name: "Review Processes and Stakeholder Engagement"
+    name: "MSE with Managers: Review Processes and Stakeholder Engagement"
     type: talk
     start: "09:30"
     end: "10:30"
@@ -404,7 +404,7 @@ Friday:
     end: "11:00"
 
   - id: fri_handson4
-    name: "Group Exercise: Multi-area, Multi-stakeholder"
+    name: "MSE with Managers: (Group Exercise) Multi-area, Multi-stakeholder"
     type: workshop
     start: "11:00"
     end: "12:30"
@@ -418,7 +418,7 @@ Friday:
     end: "13:30"
 
   - id: fri_handson5
-    name: "Continue Group Exercise"
+    name: "MSE with Managers: Continue Group Exercise"
     type: workshop
     start: "13:30"
     end: "15:00"
@@ -432,7 +432,7 @@ Friday:
     end: "15:30"
 
   - id: fri_discussion
-    name: "Final Discussion and Presentations"
+    name: "MSE with Managers: Final Discussion and Presentations"
     type: general
     start: "15:30"
     end: "16:00"
