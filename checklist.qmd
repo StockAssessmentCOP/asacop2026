@@ -6,7 +6,6 @@ toc: false
 ::: {.callout-note appearance="simple" icon=false}
 **All participants**
 
--   [ ] [Register](https://forms.gle/8p8aXELgcbedA9up8){target="_blank"} your intention to attend the workshop
 -   [ ] Keep an eye out for course materials as they are released
 
 **Online participants**
@@ -21,13 +20,11 @@ toc: false
 -   [ ] Bring your laptop (required for hands-on sessions)\
 -   [ ] Bring a notebook or pen for quick notes\
 -   [ ] Pre-download course materials in case Wi-Fi is limited\
--   [ ] Consider pre-ordering lunch from *Hey Mr Dutton Park* to avoid queues
 
 **If you are attending Days 1–2**
 
 -   [ ] Prepare for the [lightning round](#lightning)
 -   [ ] Work with your jurisdiction to create a [poster](#poster)
--   [ ] Consider volunteering to [lead parts of the workshop](#volunteer). If you are interested, get in touch!
 
 **If you are attending Days 3–5**
 

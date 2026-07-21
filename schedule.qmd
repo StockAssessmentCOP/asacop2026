@@ -3,11 +3,12 @@ title: "Schedule"
 format: html
 ---
 
-::: {.callout-note}
-- The agenda and timing may change. Watch this space for developments 👀
-- All listed times are in Australian Eastern Standard (Brisbane) time.
-- Make sure you [register](https://forms.gle/8p8aXELgcbedA9up8){target="_blank"} to access links for online meeting spaces.
-- We are working hard to ensure all activities are accessible for both online and in person attendees. 
+::: callout-note
+-   Our venue has changed! We will now be hosting in-person participants at 275 George Street, Brisbane. 
+-   The agenda and timing may change. Watch this space for developments 👀
+-   All listed times are in Australian Eastern Standard (Brisbane) time.
+-   Make sure you have [registered](https://forms.gle/8p8aXELgcbedA9up8){target="_blank"} to access links for online meeting spaces.
+-   We are working hard to ensure all activities are accessible for both online and in person attendees.
 :::
 
 ```{=html}

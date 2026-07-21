@@ -4,32 +4,36 @@ title: "Additional information"
 
 ## The venue
 
-The Ecosciences Precinct (41 Boggo Rd, Dutton Park QLD) is a short, 200-meter walk from Boggo Road/Park Road train station.
+::: callout-note
+-   Our venue has changed! We will now be hosting in-person participants at 275 George Street, Brisbane. 
+:::
+
+The venue (275 George Street, Brisbane) is the location of Fisheries Queensland's head office. It is a short, 550m walk from Central train station, or 600m to Roma Street train station.
 
 ```{=html}
 <div style="display: flex; justify-content: center; margin: 20px 0;">
 <iframe 
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1351.4674947670935!2d153.02822858103724!3d-27.49474025480422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b915a6f1ccdb977%3A0x73a6d521b0014845!2sEcosciences%20Precinct%20Dutton%20Park!5e0!3m2!1sen!2sau!4v1780034846190!5m2!1sen!2sau" 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3540.0385632315583!2d153.02203127735837!3d-27.468058776320742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b915a046636542d%3A0xb80ab16b24898356!2s275%20George%20Street%2C%20Brisbane%20City%20QLD%204000!5e0!3m2!1sen!2sau!4v1784609082608!5m2!1sen!2sau" 
   width="600" 
   height="450" 
   style="border:0;" 
   allowfullscreen="" 
   loading="lazy" 
-  referrerpolicy="no-referrer-when-downgrade">
+  referrerpolicy="strict-origin-when-cross-origin">
 </iframe>
 </div>
 ```
 All public transport fares in Queensland cost 50 cents. Contactless payment is available on all South East Queensland (SEQ) trains, trams, ferries and buses---you can use your digital or physical bank card to tap on and off.
 
-The workshop will be held in the conference room on the ground floor, before the security check point.
+The workshop will be held in a boardroom on the 14th floor. Participants are to meet on the ground floor and a designated Queensland Government staff member will escort you in. Contact details for these staff members will be made available closer to the date. 
 
-On-site parking could be arranged. Get in touch with us for options.
+Wi-Fi will be available on site. 
 
 ## Food and drink
 
 #### Lunch
 
-There is a cafe on-site (Hey Mr Dutton Park) with several excellent food options. If you would like to eat there, please consider pre-ordering your food upon arrival each morning so we don’t overwhelm the staff at lunch time. There are additional cafes within a 10-minute walking radius.
+There are ample eating options nearby. 
 
 #### Dinner
 
@@ -44,7 +48,3 @@ Tea and coffee will be provided on site.
 ## Accommodation
 
 There are ample accommodation options, either walking distance or accessible via public transport.
-
-<!-- ## Travel support  -->
-
-<!-- TBA -->
