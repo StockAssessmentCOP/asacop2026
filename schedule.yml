@@ -126,7 +126,7 @@ Tuesday:
     end: "10:15"
     description: |
       - Strategies for communication and transparency
-      - 20–25 min presentation + discussion
+      - 20–25 min presentation + 20 min discussion
       <i>Facilitator: Eva Plaganyi-Lloyd </i> 
       
   - id: tue_narrative2
@@ -136,7 +136,7 @@ Tuesday:
     end: "11:00"
     description: |
       - A geospatial approach to assessing the Victorian freshwater eel fishery 
-      - 20–25 min presentation + discussion
+      - 20–25 min presentation + 20 min discussion
       <i>Facilitator: Justin Bell (online) </i> 
 
   - id: tue_morning_tea
@@ -146,59 +146,67 @@ Tuesday:
     end: "11:15"
 
   - id: tue_narrative3
-    name: "Curated Narrative Session 3"
+    name: "Curated Narrative Session 3: The imaginary catch problem: compliance and guesswork in OpenMSE for a rec-heavy fishery"
     type: talk
     start: "11:15"
-    end: "12:00"
+    end: "11:35"
     description: |
-      - Topic to be confirmed
-      - 20–25 min presentation + discussion
+      - 12–15 min presentation + 5 min discussion
       <i>Facilitator: Katie Cresswell </i> 
       
   - id: tue_narrative4
     name: "Curated Narrative Session 4: Navigation and decision making in data-limited situations"
     type: talk
-    start: "12:00"
-    end: "12:45"
+    start: "11:35"
+    end: "12:20"
     description: |
-      - 20–25 min presentation + discussion
+      - 20–25 min presentation + 20 min discussion
       <i>Facilitators: Brett Crisafulli and Alex Hesp </i> 
 
   - id: tue_lunch
     name: "Lunch"
     type: social
-    start: "12:45"
-    end: "13:45"
+    start: "12:20"
+    end: "13:20"
 
   - id: tue_narrative5
     name: "Curated Narrative Session 5: From problem to solution: a challenging assessment journey"
     type: talk
-    start: "13:45"
-    end: "14:30"
+    start: "13:20"
+    end: "14:05"
     description: |
       - The South Australian algal bloom
-      - 20–25 min presentation + discussion
+      - 20–25 min presentation + 20 min discussion
       <i>Facilitators: Camille Mellin, Sushmita Mukherji, Kevin Mark </i> 
       
   - id: tue_narrative6
     name: "Curated Narrative Session 6: Natural mortality (M) best practices"
     type: talk
-    start: "14:30"
-    end: "15:15"
+    start: "14:05"
+    end: "14:50"
     description: |
-      - 20–25 min presentation + discussion
+      - 20–25 min presentation + 20 min discussion
       <i>Facilitator: Kristin Privitera-Johnson </i> 
 
   - id: tue_afternoon_tea
     name: "Afternoon Tea"
     type: social
-    start: "15:15"
-    end: "15:30"
+    start: "14:50"
+    end: "15:05"
+    
+  - id: tue_narrative7
+    name: "Curated Narrative Session 7: Recreational fisheries data in stock assessments"
+    type: talk
+    start: "15:05"
+    end: "15:50"
+    description: |
+      - 20–25 min presentation + 20 min discussion
+      <i>Facilitator: Jonathan Smart </i> 
 
   - id: tue_collab
     name: "Collaboration Exercise"
     type: workshop
-    start: "15:30"
+    start: "15:50"
     end: "16:30"
     description: |
       <i>Facilitator: Natalie Dowling </i> 
