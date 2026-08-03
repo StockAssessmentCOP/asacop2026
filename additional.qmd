@@ -1,11 +1,11 @@
 ---
-title: "Additional information"
+title: "Venue, food and social"
 ---
 
 ## The venue
 
 ::: callout-note
--   Our venue has changed! We will now be hosting in-person participants at 275 George Street, Brisbane. 
+-   Note our new venue! We will be hosting in-person participants at 275 George Street, Brisbane.
 :::
 
 The venue (275 George Street, Brisbane) is the location of Fisheries Queensland's head office. It is a short, 550m walk from Central train station, or 600m to Roma Street train station.
@@ -13,38 +13,55 @@ The venue (275 George Street, Brisbane) is the location of Fisheries Queensland'
 ```{=html}
 <div style="display: flex; justify-content: center; margin: 20px 0;">
 <iframe 
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3540.0385632315583!2d153.02203127735837!3d-27.468058776320742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b915a046636542d%3A0xb80ab16b24898356!2s275%20George%20Street%2C%20Brisbane%20City%20QLD%204000!5e0!3m2!1sen!2sau!4v1784609082608!5m2!1sen!2sau" 
-  width="600" 
-  height="450" 
-  style="border:0;" 
-  allowfullscreen="" 
-  loading="lazy" 
-  referrerpolicy="strict-origin-when-cross-origin">
+  src="https://www.google.com/maps/d/u/1/embed?mid=1Z0lJuwHDei4dmE-sYw6GFVwbO0t8erQ&ehbc=2E312F&noprof=1" 
+  width="640" 
+  height="480">
 </iframe>
 </div>
 ```
-All public transport fares in Queensland cost 50 cents. Contactless payment is available on all South East Queensland (SEQ) trains, trams, ferries and buses---you can use your digital or physical bank card to tap on and off.
+All public transport fares in Queensland cost 50 cents. Contactless payment is available on all South East Queensland (SEQ) trains, trams, ferries and buses—you can use your digital or physical bank card to tap on and off.
 
-The workshop will be held in a boardroom on the 14th floor. Participants are to meet on the ground floor and a designated Queensland Government staff member will escort you in. Contact details for these staff members will be made available closer to the date. 
+The workshop will be held in a boardroom on Level 14. Participants are to meet on the ground floor and a designated Queensland Government staff member will escort you in. Contact Alise on 0404 961 472 if you need assistance.
 
-Wi-Fi will be available on site. 
+Wi-Fi will be available on site.
+
+## Accessibility
+
+We want to make sure our event is equitable and that everyone is included.
+
+If there’s something we can do to make the event more accessible to you, please let us know.
+
+You can email us at [stockassessmentcop\@gmail.com](mailto:stockassessmentcop@gmail.com).
 
 ## Food and drink
 
+#### Tea and coffee
+
+In person attendees, please bring your own coffee cup or mug, if possible. We will provide basic tea and coffee and biscuits for morning/afternoon tea. If you prefer non-instant coffee, please BYO, noting there is a cafe on the ground floor of the building.
+
 #### Lunch
 
-There are ample eating options nearby. 
+There are ample eating options nearby.
 
 #### Dinner
 
-Group dinners will be organised for each night from Monday to Thursday. These dinners are optional and will be pay-your-own-way. We will book restaurants within a 20-minute walking radius from the workshop and confirm numbers each morning.
+Group dinners have been organised for each night from Monday to Thursday. These dinners are optional and will be pay-your-own-way. These dinners will be held at the following venues from 6pm:
 
-If you have any dietary requirements that you would like to be considered when booking dinner locations, please contact us by 1 August.
+-   *Monday 10th August:* Ahmet's Turkish Restaurant, Shop 10/168 Grey Street
+-   *Tuesday 11th August*: The Spaghetti House, corner Little Stanley and Grey St
+-   *Wednesday 12th August*: Poca Madre Restaurant, Shop 15/14 Little Stanley Street
+-   *Thursday 13th August*: Transcontinental Hotel (back deck), 482 George Street
 
-#### Morning and afternoon tea
+## Social events
 
-Tea and coffee will be provided on site.
+If anyone is around on the evening of Friday, 14th August, and would like to imbibe some popular culture, **we will gauge interest for a group soiree(s)** to:
 
-## Accommodation
+-   [Night Feast at Brisbane Powerhouse](https://www.nightfeast.com.au/about/)—Set within a temporary village of Queensland fretwork, Cantonese lacquer and luminous neon, a selection of Brisbane’s top chefs will feature their exclusive dishes
 
-There are ample accommodation options, either walking distance or accessible via public transport.
+-   [The Book of Mormon](https://thebookofmormonmusical.com.au/tickets/brisbane/) (comedy musical)—7:30pm, Glasshouse Theatre. Available tickets range from \$189-\$249
+
+We will look to confirm attendance for these at the start of the workshop.
+
+For the sports fans, sadly, there is no AFL or NRL action until Saturday 15th. The Brisbane Lions play the Gold Coast Suns at the Gabba on Saturday night, and there is a rugby double-header at Suncorp Stadium on the same evening—NRLW Broncos vs Roosters, and NRL Broncos vs Warriors.
+
+## 

@@ -3,7 +3,7 @@ title: "Pre-conference checklist"
 toc: false
 ---
 
-::: {.callout-note appearance="simple" icon=false}
+::: {.callout-note appearance="simple" icon="false"}
 **All participants**
 
 -   [ ] Keep an eye out for course materials as they are released
@@ -28,9 +28,8 @@ toc: false
 
 **If you are attending Days 3–5**
 
--   [ ] Install required software *(details to be provided)*\
+-   [ ] Install required software and course materials outlined on the [MSE with Managers page](mse_prep.qmd)\
 -   [ ] Ensure your laptop is fully updated\
--   [ ] Confirm you can install and run R / required tools
 :::
 
 ## Lightning round {#lightning}

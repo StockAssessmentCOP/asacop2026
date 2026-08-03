@@ -17,7 +17,7 @@ website:
         text: Home
       - schedule.qmd 
       - additional.qmd
-      - accessibility.qmd
+      - mse_prep.qmd
       - checklist.qmd
       - contact.qmd
 format:

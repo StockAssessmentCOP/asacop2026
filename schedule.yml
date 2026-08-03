@@ -20,10 +20,9 @@ Monday:
     start: "09:15"
     end: "10:30"
     description: |
-      - Bingo card icebreaker  
+      - Bingo card icebreaker (in person) or 'Would You Rather' (online)
       - Expertise mapping exercise
-      <i>Facilitator: TBC </i> 
-      <i>Online variation: Break out rooms</i>
+      <i>Facilitators: Natalie Dowling and Alise Fox </i> 
 
   - id: mon_morning_tea
     name: "Morning Tea"
@@ -37,11 +36,10 @@ Monday:
     start: "10:45"
     end: "12:30"
     description: |
-      - Lightning introductions (2 min each)   
+      - Lightning introductions 
       - Rotating poster stations
       - More details below
-      <i>Facilitator: TBC </i> 
-      <i>Online variation: TBC</i>
+      <i>Facilitator: Natalie Dowling </i> 
 
   - id: mon_lunch
     name: "Lunch"
@@ -93,15 +91,14 @@ Monday:
       - Synthesis of mapping and poster discussions  
       - Visual summary of discussion threads
       <i>Facilitator: Natalie Dowling </i> 
-      <i>Online variation: TBC</i>
 
   - id: mon_dinner
     name: "Informal Dinner"
     type: social
-    start: "17:00"
-    end: "19:00"
+    start: "18:00"
+    end: "19:30"
     description: |
-      <i>Location: TBC </i> 
+      <i>Location: Ahmet's Turkish Restaurant: Shop 10/168 Grey Street  </i> 
 
 Tuesday:
   - id: tue_arrival
@@ -117,7 +114,6 @@ Tuesday:
     end: "09:30"
     description: |
       <i>Facilitator: Natalie Dowling </i> 
-      <i>Online variation: TBC</i>
 
   - id: tue_narrative1
     name: "Curated Narrative Session 1: Building stakeholder trust through assessment"
@@ -210,7 +206,6 @@ Tuesday:
     end: "16:30"
     description: |
       <i>Facilitator: Natalie Dowling </i> 
-      <i>Online variation: TBC</i>
 
   - id: tue_wrap
     name: "Day 2 Wrap-up"
@@ -226,7 +221,7 @@ Tuesday:
     start: "18:00"
     end: "19:30"
     description: |
-      <i>Location: TBC </i> 
+      <i>Location: The Spaghetti House: corner Little Stanley and Grey St </i> 
       
 Wednesday:
   - id: wed_arrival
@@ -291,7 +286,7 @@ Wednesday:
     start: "18:00"
     end: "19:30"
     description: |
-      <i>Location: TBC </i> 
+      <i>Location: Poca Madre Restaurant: Shop 15/14 Little Stanley Street </i> 
 
 Thursday:
   - id: thu_arrival
@@ -380,7 +375,7 @@ Thursday:
     start: "18:00"
     end: "19:30"
     description: |
-      <i>Location: TBC </i> 
+      <i>Location: Transcontinental Hotel (back deck): 482 George Street </i> 
 
 Friday:
   - id: fri_arrival
