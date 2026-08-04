@@ -16,7 +16,7 @@ website:
       - href: index.qmd
         text: Home
       - schedule.qmd 
-      - venue.qmd
+      - additional.qmd
       - mse_prep.qmd
       - checklist.qmd
       - contact.qmd
