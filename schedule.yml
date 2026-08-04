@@ -98,7 +98,7 @@ Monday:
     start: "18:00"
     end: "19:30"
     description: |
-      <i>Location: Ahmet's Turkish Restaurant: Shop 10/168 Grey Street  </i> 
+      <i>Location: Ahmet's Turkish Restaurant, Shop 10/168 Grey Street (<a href="https://ahmets.com/wp-content/uploads/2026/07/ahmets-food-menu-25.06.26_WEB.pdf" target="_blank">Menu</a>)  </i> 
 
 Tuesday:
   - id: tue_arrival
@@ -221,7 +221,7 @@ Tuesday:
     start: "18:00"
     end: "19:30"
     description: |
-      <i>Location: The Spaghetti House: corner Little Stanley and Grey St </i> 
+      <i>Location: The Spaghetti House, corner Little Stanley and Grey St (<a href="https://static1.squarespace.com/static/681991c125f6422df07be448/t/6a5804534b5b2f21753ceda6/1784153171666/SH_Food+Menu_July+2026_Web.pdf" target="_blank">Menu</a>)</i> 
       
 Wednesday:
   - id: wed_arrival
@@ -286,7 +286,7 @@ Wednesday:
     start: "18:00"
     end: "19:30"
     description: |
-      <i>Location: Poca Madre Restaurant: Shop 15/14 Little Stanley Street </i> 
+      <i>Location: Poca Madre Restaurant, Shop 15/14 Little Stanley Street (<a href="https://pocamadre.com.au/menu/" target="_blank">Menu</a>)</i> 
 
 Thursday:
   - id: thu_arrival
@@ -375,7 +375,7 @@ Thursday:
     start: "18:00"
     end: "19:30"
     description: |
-      <i>Location: Transcontinental Hotel (back deck): 482 George Street </i> 
+      <i>Location: Transcontinental Hotel (back deck), 482 George Street (<a href="https://transhotel.net.au/wp-content/uploads/2026/06/Transcontinental-Hotel-Everyday-Food-Menu.pdf" target="_blank">Menu</a>)</i> 
 
 Friday:
   - id: fri_arrival
