@@ -11,25 +11,46 @@ title-block-banner-color: "#A7D9DF"
 -   Note our new venue! We will be hosting in-person participants at 275 George Street, Brisbane.
 :::
 
-<!-- <div style="text-align: center; margin: 30px 0;"> -->
+<div style="text-align: center; margin: 30px 0;">
 
-<!-- <a href="https://drive.google.com/drive/folders/1UtucNo2oHaiAZk3Y016kqC7Glv1lJhm6?usp=sharing" -->
-<!--    target="_blank" -->
-<!--    style=" -->
-<!--       display:inline-block; -->
-<!--       background-color:#0072B2; -->
-<!--       color:white; -->
-<!--       padding:18px 36px; -->
-<!--       font-size:1.2em; -->
-<!--       font-weight:bold; -->
-<!--       text-decoration:none; -->
-<!--       border-radius:10px; -->
-<!--       box-shadow:0 4px 8px rgba(0,0,0,0.2); -->
-<!--    "> -->
-<!--    📂 Workshop Resources -->
-<!-- </a> -->
+<a href="https://drive.google.com/drive/folders/1UtucNo2oHaiAZk3Y016kqC7Glv1lJhm6?usp=sharing"
+   target="_blank"
+   style="
+      display:inline-block;
+      background-color:#0072B2;
+      color:white;
+      padding:18px 36px;
+      font-size:1.2em;
+      font-weight:bold;
+      text-decoration:none;
+      border-radius:10px;
+      box-shadow:0 4px 8px rgba(0,0,0,0.2);
+   ">
+   📂 Workshop Resources
+</a>
 
-<!-- </div> -->
+</div>
+
+
+<div style="text-align: center; margin: 30px 0;">
+
+<a href="https://drive.google.com/drive/folders/1FJeSRE5j7aUtiYTEUhGH61JklWn1EPtW?usp=sharing"
+   target="_blank"
+   style="
+      display:inline-block;
+      background-color:#0072B2;
+      color:white;
+      padding:18px 36px;
+      font-size:1.2em;
+      font-weight:bold;
+      text-decoration:none;
+      border-radius:10px;
+      box-shadow:0 4px 8px rgba(0,0,0,0.2);
+   ">
+   📂 MSE with Managers Resources
+</a>
+
+</div>
 
 
 Our Community of Practice was officially launched in April 2026, with the mission to build a collaborative community of stock assessment practitioners to better support sustainable fisheries management. You can read more about the Community of Practice in our [1-page summary](https://docs.google.com/document/d/11b7GrhenKp7e2m0mI99rqXP-bOtv1q15/edit?usp=sharing&ouid=116198756358944992136&rtpof=true&sd=true){target="_blank"}.
