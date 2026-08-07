@@ -4,10 +4,6 @@ toc: false
 ---
 
 ::: {.callout-note appearance="simple" icon="false"}
-**All participants**
-
--   [ ] Keep an eye out for course materials as they are released
-
 **Online participants**
 
 -   [ ] Considering joining or starting an online hub, to attend together
