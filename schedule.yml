@@ -95,8 +95,8 @@ Monday:
   - id: mon_dinner
     name: "Informal Dinner"
     type: social
-    start: "18:00"
-    end: "19:30"
+    start: "17:30"
+    end: "19:00"
     description: |
       <i>Location: Ahmet's Turkish Restaurant, Shop 10/168 Grey Street (<a href="https://ahmets.com/wp-content/uploads/2026/07/ahmets-food-menu-25.06.26_WEB.pdf" target="_blank">Menu</a>)  </i> 
 
