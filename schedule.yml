@@ -46,6 +46,9 @@ Monday:
     type: social
     start: "12:30"
     end: "13:30"
+    description: |
+      <i>Location: Little Miss Sunshine, 80 Ann Street </i> 
+
 
   - id: mon_lecture1
     name: "Australian Stock Assessment Toolbox"
