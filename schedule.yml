@@ -204,7 +204,7 @@ Tuesday:
 
   - id: tue_collab
     name: "Hyperstability project—preliminary analysis summary and discussion"
-    type: workshop
+    type: talk
     start: "15:50"
     end: "16:30"
     description: |
