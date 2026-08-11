@@ -47,8 +47,10 @@ To get set up before the workshop, please follow the steps below.
 
 -   [ ] **Download the course materials**
 
-    -   While the software is installing, download the course materials from the [Google Drive](https://drive.google.com/drive/folders/1FJeSRE5j7aUtiYTEUhGH61JklWn1EPtW?usp=sharing).
+    -   While the software is installing, download the course materials from the Google Drive. Link is in the Teams meeting description.
     -   Click the Download all button in the top right corner to get a ZIP file containing the Examples, Lectures, and References.
+
+<!-- (https://drive.google.com/drive/folders/1FJeSRE5j7aUtiYTEUhGH61JklWn1EPtW?usp=sharing) -->
 
 -   [ ] **Extract the files (important)**
 
