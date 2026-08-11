@@ -203,12 +203,12 @@ Tuesday:
       <i>Facilitator: Jonathan Smart </i> 
 
   - id: tue_collab
-    name: "Collaboration Exercise"
+    name: "Hyperstability project—preliminary analysis summary and discussion"
     type: workshop
     start: "15:50"
     end: "16:30"
     description: |
-      <i>Facilitator: Natalie Dowling </i> 
+      <i>Facilitator: Sushmita Mukherji </i> 
 
   - id: tue_wrap
     name: "Day 2 Wrap-up"
